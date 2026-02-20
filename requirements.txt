@@ -2,3 +2,4 @@ crewai
 langchain-openai
 langchain-community
 duckduckgo-search
+streamlit
